@@ -60,7 +60,7 @@ cat <<EOF >/etc/v2ray/config.json
             "settings": {
                 "clients": [
                     {
-                        "id": "11111111-1111-1111-1111-111111111111",
+                        "id": "ebc9969b-8b27-42c9-b318-9111a090563e",
                         "alterId": 0
                     }
                 ],
